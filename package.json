@@ -1,0 +1,25 @@
+{
+  "name": "scrip-service-photo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compress-images": "^2.0.5",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "express-range": "^2.0.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "^0.0.1-security",
+    "gifsicle": "^5.2.1",
+    "https": "^1.0.0",
+    "node-webcam": "^0.8.2",
+    "pngquant-bin": "^6.0.1"
+  }
+}
